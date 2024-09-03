@@ -1,0 +1,11 @@
+{
+    "project_id": "notebooks-370010",
+    "location": "us-central1",
+    "model_name": "gemini-1.5-flash-001",
+    "system_command": "You are a helpful and concise assistant",
+    "app_name": "MyCompany Chatbot",
+    "logo_url": "https://zenitech.co.uk/wp-content/uploads/2023/08/Introduction.jpg",
+    "welcome_title": "Welcome to MyCompany Chatbot",
+    "welcome_message": "How can I assist?",
+    "welcome_image": "https://cdn.mos.cms.futurecdn.net/VFLt5vHV7aCoLrLGjP9Qwm-1920-80.jpg.webp"
+}
