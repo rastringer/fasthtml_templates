@@ -1,6 +1,6 @@
 {
-    "project_id": "notebooks-370010",
-    "location": "us-central1",
+    "project_id": "<your-project-id>",
+    "location": "<your-project-region>",
     "model_name": "gemini-1.5-flash-001",
     "system_command": "You are a helpful and concise assistant",
     "app_name": "MyCompany Chatbot",
